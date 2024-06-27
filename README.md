@@ -1,11 +1,12 @@
 # Mario Lucio Braz
 Olá, eu Sou Mario e depois de 16 anos atuando como radialista e fotógrafo em algumas emissoras e produtoras do Rio de Janeiro, migrei para o empreendedorismo. Fundei minha "Eugência" de Marketing Digital, <a href="https://alfavirgo.com.br">AlfaVirgo Digital</a>, onde ofereço serviços para negócios locais como clínicas, médicos e escritórios de variados nichos.
 
-Fiz o curso de desenvolvedor fullstack da Recode Pro, faço parte de algumas comunidades de marketing e de I.A. Atualmente estudo com a Dio para desenvolver minhas habilidades.
+Fiz o curso de desenvolvedor fullstack da Recode Pro, faço parte de algumas comunidades de marketing e de I.A. Atualmente estou curssando Ciência de Dados e estudo com a Dio para desenvolver minhas habilidades.
 
 ## Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-braz-a50174269/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marioluciobraz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfavirgo.digital/)
 
 ## Habilidades
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
