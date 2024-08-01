@@ -4,7 +4,7 @@ Olá, eu Sou Mario e depois de 16 anos atuando como radialista e fotógrafo em a
 Fiz o curso de desenvolvedor fullstack da Recode Pro. Atualmente estou cursando Ciência de Dados e estudo com a Dio para desenvolver e aprimorar minhas habilidades.
 
 ## Conecte-se comigo!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioluciomoreira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioluciobraz/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfavirgo.digital/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521982632022/)
 
