@@ -1,7 +1,7 @@
 # Mario Lucio Braz
 Olá, eu Sou Mario e depois de 16 anos atuando como radialista e fotógrafo em algumas emissoras e produtoras do Rio de Janeiro, migrei para o empreendedorismo. Fundei minha Agência de Marketing Digital, <a href="https://alfavirgodigital.com.br" rel=dofollow >AlfaVirgo Digital</a>, onde ofereço serviços para negócios locais como clínicas, médicos e escritórios de variados nichos.
 
-Fiz o curso de desenvolvedor fullstack da Recode Pro. Atualmente estou cursando Ciência de Dados e estudo com a Dio para desenvolver e aprimorar minhas habilidades.
+Sou especialista em SEO e track de dados, formado em Marketing Digital e Análise de Dados pela Universidade Estácio de Sá e amplio meus estudos com a Dio para desenvolver e aprimorar minhas habilidades. Cursei o curso técnico de desenvolvedor fullstack pela Recode Pro onde pude desenvolver diversas habilidades. 
 
 ## Conecte-se comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioluciobraz/)
